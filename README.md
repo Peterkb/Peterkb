@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Peter Bredell</h1>
+<h1 align="center">Hi 👋, I am Peter</h1>
 <h3 align="center">A passionate C# Full Stack developer</h3>
 
 - 👨‍💻 All of my projects are available at [peter-bredell.com](peter-bredell.com)
