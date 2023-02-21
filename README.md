@@ -7,7 +7,7 @@
 <p align="left">
 <!-- <a href="https://twitter.com/petekb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peterkb" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/pkbredell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pkbredell" height="30" width="40" /></a>
-<a href="https://instagram.com/peterkbredell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peterkbredell" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/peterkbredell" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peterkbredell" height="30" width="40" /></a> -->
 </p>
 
 <p> <a href="https://peter-bredell.com/" alt="porfoliosite" target="_blank">Portfolio Site<a/> </p>
